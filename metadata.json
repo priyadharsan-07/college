@@ -1,0 +1,6 @@
+{
+  "name": "College Management System",
+  "description": "Comprehensive, modern College Management System web application with dedicated portals and role-based workflows for Admin, Faculty, and Students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
